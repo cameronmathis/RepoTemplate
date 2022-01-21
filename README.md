@@ -14,7 +14,7 @@
 
 ## General info
 
-This is a template I created to easily spin up new Github Repositories.
+This is a template I created to easily spin up new GitHub Repositories.
 
 ## Setup
 
