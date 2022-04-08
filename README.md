@@ -1,5 +1,5 @@
 [![license](https://img.shields.io/github/license/cameronmathis/RepoTemplate)](LICENSE)
-[![CodeQL](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yaml/badge.svg)](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yaml)
+[![CodeQL](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate/badge)](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate)
 
 # Repo Template
